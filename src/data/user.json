@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Patel",
+    "email": "amit@gmail.com",
+    "phoneNumber": "+91 1234567890",
+    "password": "amit@121",
+    "city": "Mumbai",
+    "state": "Maharashtra"
+  },
+  {
+    "id": 2,
+    "name": "Sneha Gupta",
+    "email": "sneha@gmail.com",
+    "phoneNumber": "+91 9876543210",
+    "password": "sneha@121",
+    "city": "Delhi",
+    "state": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Raj Singh",
+    "email": "raj@gmail.com",
+    "phoneNumber": "+91 8765432109",
+    "password": "raj@121",
+    "city": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "id": 4,
+    "name": "Neha Kapoor",
+    "email": "neha@gmail.com",
+    "phoneNumber": "+91 3456789012",
+    "password": "neha@121",
+    "city": "Bangalore",
+    "state": "Karnataka"
+  },
+  {
+    "id": 5,
+    "name": "Anuj Sharma",
+    "email": "anuj@gmail.com",
+    "phoneNumber": "+91 2345678901",
+    "password": "anuj@121",
+    "city": "Chennai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 6,
+    "name": "Priya Verma",
+    "email": "priya@gmail.com",
+    "phoneNumber": "+91 6789012345",
+    "password": "priya@121",
+    "city": "Hyderabad",
+    "state": "Telangana"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Yadav",
+    "email": "vikram@gmail.com",
+    "phoneNumber": "+91 8901234567",
+    "password": "vikram@121",
+    "city": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "id": 8,
+    "name": "Pooja Reddy",
+    "email": "pooja@gmail.com",
+    "phoneNumber": "+91 7654321098",
+    "password": "pooja@121",
+    "city": "Kolkata",
+    "state": "West Bengal"
+  },
+  {
+    "id": 9,
+    "name": "Rahul Kapoor",
+    "email": "rahul@gmail.com",
+    "phoneNumber": "+91 4321098765",
+    "password": "rahul@121",
+    "city": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "id": 10,
+    "name": "Aisha Khan",
+    "email": "aisha@gmail.com",
+    "phoneNumber": "+91 9876543210",
+    "password": "aisha@121",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": 11,
+    "name": "Suresh Patel",
+    "email": "suresh@gmail.com",
+    "phoneNumber": "+91 8765432109",
+    "password": "suresh@121",
+    "city": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "id": 12,
+    "name": "Meera Joshi",
+    "email": "meera@gmail.com",
+    "phoneNumber": "+91 3456789012",
+    "password": "meera@121",
+    "city": "Nagpur",
+    "state": "Maharashtra"
+  },
+  {
+    "id": 13,
+    "name": "Vivek Sharma",
+    "email": "vivek@gmail.com",
+    "phoneNumber": "+91 2345678901",
+    "password": "vivek@121",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": 14,
+    "name": "Naina Singh",
+    "email": "naina@gmail.com",
+    "phoneNumber": "+91 6789012345",
+    "password": "naina@121",
+    "city": "Indore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": 15,
+    "name": "Arun Mehra",
+    "email": "arun@gmail.com",
+    "phoneNumber": "+91 8901234567",
+    "password": "arun@121",
+    "city": "Chandigarh",
+    "state": "Punjab"
+  },
+  {
+    "id": 16,
+    "name": "Ritika Sharma",
+    "email": "ritika@gmail.com",
+    "phoneNumber": "+91 7654321098",
+    "password": "ritika@121",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 17,
+    "name": "Rajat Verma",
+    "email": "rajat@gmail.com",
+    "phoneNumber": "+91 4321098765",
+    "password": "rajat@121",
+    "city": "Kochi",
+    "state": "Kerala"
+  },
+  {
+    "id": 18,
+    "name": "Preeti Yadav",
+    "email": "preeti@gmail.com",
+    "phoneNumber": "+91 9876543210",
+    "password": "preeti@121",
+    "city": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "id": 19,
+    "name": "Aryan Kapoor",
+    "email": "aryan@gmail.com",
+    "phoneNumber": "+91 8765432109",
+    "password": "aryan@121",
+    "city": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "id": 20,
+    "name": "Ananya Gupta",
+    "email": "ananya@gmail.com",
+    "phoneNumber": "+91 3456789012",
+    "password": "ananya@121",
+    "city": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "id": 21,
+    "name": "John Doe",
+    "email": "john.doe@gmail.com",
+    "password": "john@121",
+    "city": "Ahmedabad",
+    "state": "Gujarat"
+  }
+]
